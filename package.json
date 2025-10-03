@@ -1,7 +1,7 @@
 {
   "name": "ridicrypt-gui",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "GUI for ridicrypt",
   "type": "module",
   "scripts": {
     "dev": "vite dev",
@@ -12,7 +12,7 @@
     "tauri": "tauri",
     "machine-translate": "inlang machine translate --project project.inlang"
   },
-  "license": "MIT",
+  "license": "CC0-1.0",
   "dependencies": {
     "@hugeicons/core-free-icons": "^1.1.0",
     "@hugeicons/svelte": "^1.0.2",

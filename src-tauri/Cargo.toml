@@ -1,8 +1,9 @@
 [package]
 name = "ridicrypt-gui"
-version = "0.1.0"
+version = "0.1.1"
 description = "GUI for ridicrypt"
 edition = "2024"
+license = "CC0-1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
