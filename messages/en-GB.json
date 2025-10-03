@@ -1,0 +1,100 @@
+{
+  "label": "English (UK)",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "No cover available",
+      "untitled": "Untitled"
+    },
+    "user": {
+      "label": "User",
+      "all": "All users"
+    },
+    "sort": {
+      "strategy": "Sort by",
+      "order": "Order",
+      "asc": "Ascending",
+      "desc": "Descending"
+    },
+    "selection": {
+      "enter": "Select multiple",
+      "exit": "Cancel selection",
+      "count": "{count} selected",
+      "apply": "Apply",
+      "selectAll": "Select all",
+      "deselectAll": "Deselect all"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "Title",
+      "author": "Author",
+      "recent": "Recent Downloaded"
+    },
+    "action": {
+      "export": "Export"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "Failed to refresh library"
+    },
+    "book": {
+      "opening": "Opening book...",
+      "opened": "Opened: {title}",
+      "openFailed": "Failed to open: {title}"
+    },
+    "folder": {
+      "opened": "Folder opened",
+      "openFailed": "Failed to open folder"
+    },
+    "export": {
+      "exporting": "Exporting...",
+      "exported": "{title} Exported",
+      "exportFailed": "Failed to export {title}",
+      "exportingMultiple": "Exporting {count} books...",
+      "exportedAll": "Successfully exported {count} books",
+      "exportFailedAll": "Failed to export all {count} books",
+      "exportPartial": "Exported {success} books, {failed} failed",
+      "chooseDirFailed": "Failed to choose export directory"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "light",
+    "dark": "dark",
+    "cupcake": "cupcake",
+    "bumblebee": "bumblebee",
+    "emerald": "emerald",
+    "corporate": "corporate",
+    "synthwave": "synthwave",
+    "retro": "retro",
+    "cyberpunk": "cyberpunk",
+    "valentine": "valentine",
+    "halloween": "halloween",
+    "garden": "garden",
+    "forest": "forest",
+    "aqua": "aqua",
+    "lofi": "lofi",
+    "pastel": "pastel",
+    "fantasy": "fantasy",
+    "wireframe": "wireframe",
+    "black": "black",
+    "luxury": "luxury",
+    "dracula": "dracula",
+    "cmyk": "cmyk",
+    "autumn": "autumn",
+    "business": "business",
+    "acid": "acid",
+    "lemonade": "lemonade",
+    "night": "night",
+    "coffee": "coffee",
+    "winter": "winter",
+    "dim": "dim",
+    "nord": "nord",
+    "sunset": "sunset",
+    "caramellatte": "caramellatte",
+    "abyss": "abyss",
+    "silk": "silk"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "label": "Português (Brasil)",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "Sem capa disponível",
+      "untitled": "Sem título"
+    },
+    "user": {
+      "label": "Usuário",
+      "all": "Todos os usuários"
+    },
+    "sort": {
+      "strategy": "Ordenar por",
+      "order": "Ordem",
+      "asc": "Ascendente",
+      "desc": "Descendente"
+    },
+    "selection": {
+      "enter": "Seleção múltipla",
+      "exit": "Cancelar seleção",
+      "count": "{count} selecionados",
+      "apply": "Aplicar",
+      "selectAll": "Selecionar tudo",
+      "deselectAll": "Desmarcar tudo"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "Título",
+      "author": "Autor",
+      "recent": "Baixados recentemente"
+    },
+    "action": {
+      "export": "Exportar"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "Falha ao atualizar a biblioteca"
+    },
+    "book": {
+      "opening": "Abrindo livro...",
+      "opened": "Aberto: {title}",
+      "openFailed": "Falha ao abrir: {title}"
+    },
+    "folder": {
+      "opened": "Pasta aberta",
+      "openFailed": "Falha ao abrir pasta"
+    },
+    "export": {
+      "exporting": "Exportando...",
+      "exported": "{title} exportado",
+      "exportFailed": "Falha ao exportar {title}",
+      "exportingMultiple": "Exportando {count} livros...",
+      "exportedAll": "{count} livros exportados com sucesso",
+      "exportFailedAll": "Falha ao exportar todos os {count} livros",
+      "exportPartial": "{success} livros exportados, {failed} falharam",
+      "chooseDirFailed": "Falha ao escolher diretório de exportação"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "claro",
+    "dark": "escuro",
+    "cupcake": "cupcake",
+    "bumblebee": "abelha",
+    "emerald": "esmeralda",
+    "corporate": "corporativo",
+    "synthwave": "synthwave",
+    "retro": "retrô",
+    "cyberpunk": "ciberpunk",
+    "valentine": "dia dos namorados",
+    "halloween": "halloween",
+    "garden": "jardim",
+    "forest": "floresta",
+    "aqua": "aqua",
+    "lofi": "lo-fi",
+    "pastel": "pastel",
+    "fantasy": "fantasia",
+    "wireframe": "wireframe",
+    "black": "preto",
+    "luxury": "luxo",
+    "dracula": "drácula",
+    "cmyk": "cmyk",
+    "autumn": "outono",
+    "business": "negócios",
+    "acid": "ácido",
+    "lemonade": "limonada",
+    "night": "noite",
+    "coffee": "café",
+    "winter": "inverno",
+    "dim": "atenuado",
+    "nord": "nord",
+    "sunset": "pôr do sol",
+    "caramellatte": "latte de caramelo",
+    "abyss": "abismo",
+    "silk": "seda"
+  }
+}

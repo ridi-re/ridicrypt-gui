@@ -1,0 +1,100 @@
+{
+  "label": "বাংলা",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "কভার উপলব্ধ নেই",
+      "untitled": "শিরোনামহীন"
+    },
+    "user": {
+      "label": "ব্যবহারকারী",
+      "all": "সমস্ত ব্যবহারকারী"
+    },
+    "sort": {
+      "strategy": "সাজান",
+      "order": "ক্রম",
+      "asc": "ঊর্ধ্বক্রম",
+      "desc": "অধঃক্রম"
+    },
+    "selection": {
+      "enter": "একাধিক নির্বাচন",
+      "exit": "নির্বাচন বাতিল করুন",
+      "count": "{count} টি নির্বাচিত",
+      "apply": "প্রয়োগ করুন",
+      "selectAll": "সব নির্বাচন করুন",
+      "deselectAll": "সব নির্বাচন বাতিল করুন"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "শিরোনাম",
+      "author": "লেখক",
+      "recent": "সাম্প্রতিক ডাউনলোড"
+    },
+    "action": {
+      "export": "রপ্তানি"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "লাইব্রেরি রিফ্রেশ করতে ব্যর্থ"
+    },
+    "book": {
+      "opening": "বই খোলা হচ্ছে...",
+      "opened": "খোলা হয়েছে: {title}",
+      "openFailed": "খোলা যায়নি: {title}"
+    },
+    "folder": {
+      "opened": "ফোল্ডার খোলা হয়েছে",
+      "openFailed": "ফোল্ডার খোলা যায়নি"
+    },
+    "export": {
+      "exporting": "রপ্তানি চলছে...",
+      "exported": "{title} রপ্তানি হয়েছে",
+      "exportFailed": "রপ্তানি ব্যর্থ {title}",
+      "exportingMultiple": "{count} টি বই রপ্তানি হচ্ছে...",
+      "exportedAll": "সফলভাবে {count} টি বই রপ্তানি হয়েছে",
+      "exportFailedAll": "সমস্ত {count} টি বই রপ্তানি ব্যর্থ",
+      "exportPartial": "{success} টি রপ্তানি, {failed} টি ব্যর্থ",
+      "chooseDirFailed": "রপ্তানি ডিরেক্টরি নির্বাচন ব্যর্থ"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "হালকা",
+    "dark": "গাঢ়",
+    "cupcake": "কাপকেক",
+    "bumblebee": "ভোমরা",
+    "emerald": "পান্না",
+    "corporate": "কর্পোরেট",
+    "synthwave": "সিন্থওয়েভ",
+    "retro": "রেট্রো",
+    "cyberpunk": "সাইবারপাঙ্ক",
+    "valentine": "ভ্যালেন্টাইন",
+    "halloween": "হ্যালোইন",
+    "garden": "বাগান",
+    "forest": "বন",
+    "aqua": "অ্যাকোয়া",
+    "lofi": "লো-ফাই",
+    "pastel": "প্যাস্টেল",
+    "fantasy": "ফ্যান্টাসি",
+    "wireframe": "ওয়্যারফ্রেম",
+    "black": "কালো",
+    "luxury": "লাক্সারি",
+    "dracula": "ড্রাকুলা",
+    "cmyk": "cmyk",
+    "autumn": "শরৎ",
+    "business": "ব্যবসা",
+    "acid": "অম্লীয়",
+    "lemonade": "লেবুর শরবত",
+    "night": "রাত্রি",
+    "coffee": "কফি",
+    "winter": "শীত",
+    "dim": "ম্লান",
+    "nord": "nord",
+    "sunset": "সূর্যাস্ত",
+    "caramellatte": "কারামেল লাটে",
+    "abyss": "অন্তহীন গহ্বর",
+    "silk": "রেশম"
+  }
+}

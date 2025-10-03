@@ -1,0 +1,100 @@
+{
+  "label": "Bahasa Melayu",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "Kulit buku tidak tersedia",
+      "untitled": "Tanpa tajuk"
+    },
+    "user": {
+      "label": "Pengguna",
+      "all": "Semua pengguna"
+    },
+    "sort": {
+      "strategy": "Susun mengikut",
+      "order": "Tertib",
+      "asc": "Menaik",
+      "desc": "Menurun"
+    },
+    "selection": {
+      "enter": "Pilih berbilang",
+      "exit": "Batalkan pilihan",
+      "count": "{count} dipilih",
+      "apply": "Terapkan",
+      "selectAll": "Pilih semua",
+      "deselectAll": "Nyahpilih semua"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "Tajuk",
+      "author": "Pengarang",
+      "recent": "Dimuat turun baru-baru ini"
+    },
+    "action": {
+      "export": "Eksport"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "Gagal menyegar semula pustaka"
+    },
+    "book": {
+      "opening": "Membuka buku...",
+      "opened": "Dibuka: {title}",
+      "openFailed": "Gagal membuka: {title}"
+    },
+    "folder": {
+      "opened": "Folder dibuka",
+      "openFailed": "Gagal membuka folder"
+    },
+    "export": {
+      "exporting": "Mengeksport...",
+      "exported": "{title} dieksport",
+      "exportFailed": "Gagal mengeksport {title}",
+      "exportingMultiple": "Mengeksport {count} buku...",
+      "exportedAll": "Berjaya mengeksport {count} buku",
+      "exportFailedAll": "Gagal mengeksport semua {count} buku",
+      "exportPartial": "{success} buku dieksport, {failed} gagal",
+      "chooseDirFailed": "Gagal memilih direktori eksport"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "cerah",
+    "dark": "gelap",
+    "cupcake": "kek cawan",
+    "bumblebee": "lebah",
+    "emerald": "zamrud",
+    "corporate": "korporat",
+    "synthwave": "synthwave",
+    "retro": "retro",
+    "cyberpunk": "cyberpunk",
+    "valentine": "valentine",
+    "halloween": "halloween",
+    "garden": "bustani",
+    "forest": "hutan",
+    "aqua": "aqua",
+    "lofi": "lo-fi",
+    "pastel": "pastel",
+    "fantasy": "fantasi",
+    "wireframe": "wireframe",
+    "black": "hitam",
+    "luxury": "mewah",
+    "dracula": "dracula",
+    "cmyk": "cmyk",
+    "autumn": "musim luruh",
+    "business": "perniagaan",
+    "acid": "asid",
+    "lemonade": "air limau",
+    "night": "malam",
+    "coffee": "kopi",
+    "winter": "musim sejuk",
+    "dim": "redup",
+    "nord": "nord",
+    "sunset": "matahari terbenam",
+    "caramellatte": "latte karamel",
+    "abyss": "jurang",
+    "silk": "sutera"
+  }
+}

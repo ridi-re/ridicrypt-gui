@@ -1,0 +1,100 @@
+{
+  "label": "Türkçe",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "Kapak mevcut değil",
+      "untitled": "Başlıksız"
+    },
+    "user": {
+      "label": "Kullanıcı",
+      "all": "Tüm kullanıcılar"
+    },
+    "sort": {
+      "strategy": "Sırala",
+      "order": "Sıra",
+      "asc": "Artan",
+      "desc": "Azalan"
+    },
+    "selection": {
+      "enter": "Çoklu seçim",
+      "exit": "Seçimi iptal et",
+      "count": "{count} seçildi",
+      "apply": "Uygula",
+      "selectAll": "Tümünü seç",
+      "deselectAll": "Tümünü kaldır"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "Başlık",
+      "author": "Yazar",
+      "recent": "Son indirilenler"
+    },
+    "action": {
+      "export": "Dışa aktar"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "Kütüphane yenilenemedi"
+    },
+    "book": {
+      "opening": "Kitap açılıyor...",
+      "opened": "Açıldı: {title}",
+      "openFailed": "Açılamadı: {title}"
+    },
+    "folder": {
+      "opened": "Klasör açıldı",
+      "openFailed": "Klasör açılamadı"
+    },
+    "export": {
+      "exporting": "Dışa aktarılıyor...",
+      "exported": "{title} dışa aktarıldı",
+      "exportFailed": "{title} dışa aktarılırken hata",
+      "exportingMultiple": "{count} kitap dışa aktarılıyor...",
+      "exportedAll": "{count} kitap başarıyla dışa aktarıldı",
+      "exportFailedAll": "Tüm {count} kitap dışa aktarılamadı",
+      "exportPartial": "{success} kitap aktarıldı, {failed} başarısız",
+      "chooseDirFailed": "Dışa aktarım dizini seçilemedi"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "açık",
+    "dark": "koyu",
+    "cupcake": "cupcake",
+    "bumblebee": "yabanarısı",
+    "emerald": "zümrüt",
+    "corporate": "kurumsal",
+    "synthwave": "synthwave",
+    "retro": "retro",
+    "cyberpunk": "siberpunk",
+    "valentine": "sevgililer günü",
+    "halloween": "cadılar bayramı",
+    "garden": "bahçe",
+    "forest": "orman",
+    "aqua": "aqua",
+    "lofi": "lo-fi",
+    "pastel": "pastel",
+    "fantasy": "fantastik",
+    "wireframe": "iskelet",
+    "black": "siyah",
+    "luxury": "lüks",
+    "dracula": "drakula",
+    "cmyk": "cmyk",
+    "autumn": "sonbahar",
+    "business": "iş",
+    "acid": "asit",
+    "lemonade": "limonata",
+    "night": "gece",
+    "coffee": "kahve",
+    "winter": "kış",
+    "dim": "loş",
+    "nord": "nord",
+    "sunset": "gün batımı",
+    "caramellatte": "karamel latte",
+    "abyss": "uçurum",
+    "silk": "ipek"
+  }
+}

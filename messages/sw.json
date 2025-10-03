@@ -1,0 +1,100 @@
+{
+  "label": "Kiswahili",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "Kifuniko hakipatikani",
+      "untitled": "Bila kichwa"
+    },
+    "user": {
+      "label": "Mtumiaji",
+      "all": "Watumiaji wote"
+    },
+    "sort": {
+      "strategy": "Panga kwa",
+      "order": "Mpangilio",
+      "asc": "Kwa kuongezeka",
+      "desc": "Kwa kupungua"
+    },
+    "selection": {
+      "enter": "Chagua nyingi",
+      "exit": "Ghairi uteuzi",
+      "count": "{count} zimechaguliwa",
+      "apply": "Tumia",
+      "selectAll": "Chagua zote",
+      "deselectAll": "Ondoa uteuzi zote"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "Kichwa",
+      "author": "Mwandishi",
+      "recent": "Zilipakuliwa hivi karibuni"
+    },
+    "action": {
+      "export": "Hamisha nje"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "Imeshindikana kusasisha maktaba"
+    },
+    "book": {
+      "opening": "Inafungua kitabu...",
+      "opened": "Kimefunguliwa: {title}",
+      "openFailed": "Imeshindikana kufungua: {title}"
+    },
+    "folder": {
+      "opened": "Folda imefunguliwa",
+      "openFailed": "Imeshindikana kufungua folda"
+    },
+    "export": {
+      "exporting": "Inasafirisha...",
+      "exported": "{title} imesafirishwa",
+      "exportFailed": "Imeshindikana kusafirisha {title}",
+      "exportingMultiple": "Inasafirisha vitabu {count}...",
+      "exportedAll": "Imesafirisha kwa mafanikio vitabu {count}",
+      "exportFailedAll": "Imeshindikana kusafirisha vitabu vyote {count}",
+      "exportPartial": "{success} vimesafirishwa, {failed} vimeshindikana",
+      "chooseDirFailed": "Imeshindikana kuchagua folda ya kusafirisha"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "angavu",
+    "dark": "giza",
+    "cupcake": "keki ndogo",
+    "bumblebee": "nyuki mkubwa",
+    "emerald": "zumridi",
+    "corporate": "kikorporaiti",
+    "synthwave": "synthwave",
+    "retro": "retro",
+    "cyberpunk": "cyberpunk",
+    "valentine": "siku ya wapendanao",
+    "halloween": "halloween",
+    "garden": "bustani",
+    "forest": "msitu",
+    "aqua": "aqua",
+    "lofi": "lo-fi",
+    "pastel": "pasteli",
+    "fantasy": "fantasia",
+    "wireframe": "muundo wa waya",
+    "black": "nyeusi",
+    "luxury": "anasa",
+    "dracula": "dracula",
+    "cmyk": "cmyk",
+    "autumn": "vuli",
+    "business": "biashara",
+    "acid": "asidi",
+    "lemonade": "limauada",
+    "night": "usiku",
+    "coffee": "kahawa",
+    "winter": "majira ya baridi",
+    "dim": "hafifu",
+    "nord": "nord",
+    "sunset": "machweo",
+    "caramellatte": "latte ya karameli",
+    "abyss": "kina kirefu",
+    "silk": "hariri"
+  }
+}

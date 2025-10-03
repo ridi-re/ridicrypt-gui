@@ -1,0 +1,100 @@
+{
+    "label": "中文（简体）",
+    "title": "Ridicrypt GUI",
+    "library": {
+        "book": {
+            "noCover": "暂无封面",
+            "untitled": "未命名书籍"
+        },
+        "user": {
+            "label": "用户",
+            "all": "全部用户"
+        },
+        "sort": {
+            "strategy": "排序方式",
+            "order": "排序方向",
+            "asc": "升序",
+            "desc": "降序"
+        },
+        "selection": {
+            "enter": "开启多选",
+            "exit": "退出多选",
+            "count": "已选 {count} 本",
+            "apply": "应用",
+            "selectAll": "全选",
+            "deselectAll": "反选"
+        }
+    },
+    "custom": {
+        "library": {
+            "title": "标题",
+            "author": "作者",
+            "recent": "最近下载"
+        },
+        "action": {
+            "export": "导出"
+        }
+    },
+        "notification": {
+            "library": {
+                "refreshFailed": "刷新书库失败"
+            },
+                    "book": {
+                        "opening": "正在打开书籍...",
+                        "opened": "{title} 已打开",
+                        "openFailed": "{title} 打开失败"
+                    },
+            "folder": {
+                "opened": "文件夹已打开",
+                "openFailed": "打开文件夹失败"
+            },
+                    "export": {
+                        "exporting": "正在导出...",
+                        "exported": "{title} 已导出",
+                        "exportFailed": "{title} 导出失败",
+                        "exportingMultiple": "正在导出 {count} 本书...",
+                        "exportedAll": "{count} 本书已全部导出",
+                        "exportFailedAll": "{count} 本书全部导出失败",
+                        "exportPartial": "{success} 本导出成功 {failed} 本失败",
+                        "chooseDirFailed": "导出目录选择失败"
+                    }
+        },
+    "theme": {
+        "ridi": "ridi",
+        "light": "素简白颜",
+        "dark": "墨夜幽光",
+        "cupcake": "梦幻甜心",
+        "bumblebee": "温暖蜂语",
+        "emerald": "翡翠清茵",
+        "corporate": "理性简净",
+        "synthwave": "霓虹节奏",
+        "retro": "怀旧光年",
+        "cyberpunk": "赛博朋克",
+        "valentine": "樱语恋歌",
+        "halloween": "南瓜夜语",
+        "garden": "幽庭春语",
+        "forest": "森居深绿",
+        "aqua": "碧海轻吟",
+        "lofi": "柔光午后",
+        "pastel": "柔彩薄雾",
+        "fantasy": "幻境梦语",
+        "wireframe": "线性构境",
+        "black": "夜幕星尘",
+        "luxury": "绮丽尊雅",
+        "dracula": "夜之伯爵",
+        "cmyk": "印彩交织",
+        "autumn": "枫染秋韵",
+        "business": "智简格调",
+        "acid": "荧光酸调",
+        "lemonade": "柠檬初夏",
+        "night": "皓夜星辰",
+        "coffee": "暖棕晨语",
+        "winter": "雪域素白",
+        "dim": "柔黯微光",
+        "nord": "北境极光",
+        "sunset": "暮霞余晖",
+        "caramellatte": "焦糖拿铁",
+        "abyss": "深渊翠影",
+        "silk": "素绸曦光"
+    }
+}

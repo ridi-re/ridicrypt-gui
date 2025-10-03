@@ -1,0 +1,100 @@
+{
+  "label": "日本語",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "表紙はありません",
+      "untitled": "無題"
+    },
+    "user": {
+      "label": "ユーザー",
+      "all": "すべてのユーザー"
+    },
+    "sort": {
+      "strategy": "並び替え",
+      "order": "順序",
+      "asc": "昇順",
+      "desc": "降順"
+    },
+    "selection": {
+      "enter": "複数選択",
+      "exit": "選択をキャンセル",
+      "count": "{count} 件選択",
+      "apply": "適用",
+      "selectAll": "すべて選択",
+      "deselectAll": "すべて選択解除"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "タイトル",
+      "author": "著者",
+      "recent": "最近のダウンロード"
+    },
+    "action": {
+      "export": "エクスポート"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "ライブラリの更新に失敗しました"
+    },
+    "book": {
+      "opening": "書籍を開いています...",
+      "opened": "開きました: {title}",
+      "openFailed": "開けませんでした: {title}"
+    },
+    "folder": {
+      "opened": "フォルダーを開きました",
+      "openFailed": "フォルダーを開けませんでした"
+    },
+    "export": {
+      "exporting": "エクスポート中...",
+      "exported": "{title} をエクスポートしました",
+      "exportFailed": "{title} のエクスポートに失敗しました",
+      "exportingMultiple": "{count} 冊の書籍をエクスポート中...",
+      "exportedAll": "{count} 冊を正常にエクスポートしました",
+      "exportFailedAll": "{count} 冊すべてをエクスポートできませんでした",
+      "exportPartial": "{success} 冊をエクスポート、{failed} 冊失敗",
+      "chooseDirFailed": "エクスポート先の選択に失敗しました"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "ライト",
+    "dark": "ダーク",
+    "cupcake": "カップケーキ",
+    "bumblebee": "マルハナバチ",
+    "emerald": "エメラルド",
+    "corporate": "コーポレート",
+    "synthwave": "シンセウェーブ",
+    "retro": "レトロ",
+    "cyberpunk": "サイバーパンク",
+    "valentine": "バレンタイン",
+    "halloween": "ハロウィン",
+    "garden": "ガーデン",
+    "forest": "フォレスト",
+    "aqua": "アクア",
+    "lofi": "ローファイ",
+    "pastel": "パステル",
+    "fantasy": "ファンタジー",
+    "wireframe": "ワイヤーフレーム",
+    "black": "ブラック",
+    "luxury": "ラグジュアリー",
+    "dracula": "ドラキュラ",
+    "cmyk": "cmyk",
+    "autumn": "オータム",
+    "business": "ビジネス",
+    "acid": "アシッド",
+    "lemonade": "レモネード",
+    "night": "ナイト",
+    "coffee": "コーヒー",
+    "winter": "ウィンター",
+    "dim": "ディム",
+    "nord": "nord",
+    "sunset": "サンセット",
+    "caramellatte": "キャラメルラテ",
+    "abyss": "アビス",
+    "silk": "シルク"
+  }
+}

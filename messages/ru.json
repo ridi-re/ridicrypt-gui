@@ -1,0 +1,100 @@
+{
+  "label": "Русский",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "Обложка недоступна",
+      "untitled": "Без названия"
+    },
+    "user": {
+      "label": "Пользователь",
+      "all": "Все пользователи"
+    },
+    "sort": {
+      "strategy": "Сортировать по",
+      "order": "Порядок",
+      "asc": "По возрастанию",
+      "desc": "По убыванию"
+    },
+    "selection": {
+      "enter": "Множественный выбор",
+      "exit": "Отменить выбор",
+      "count": "Выбрано: {count}",
+      "apply": "Применить",
+      "selectAll": "Выбрать всё",
+      "deselectAll": "Снять выделение со всего"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "Название",
+      "author": "Автор",
+      "recent": "Недавно загруженные"
+    },
+    "action": {
+      "export": "Экспорт"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "Не удалось обновить библиотеку"
+    },
+    "book": {
+      "opening": "Открытие книги...",
+      "opened": "Открыто: {title}",
+      "openFailed": "Не удалось открыть: {title}"
+    },
+    "folder": {
+      "opened": "Папка открыта",
+      "openFailed": "Не удалось открыть папку"
+    },
+    "export": {
+      "exporting": "Экспорт...",
+      "exported": "Экспортировано: {title}",
+      "exportFailed": "Не удалось экспортировать {title}",
+      "exportingMultiple": "Экспорт {count} книг...",
+      "exportedAll": "Успешно экспортировано {count} книг",
+      "exportFailedAll": "Не удалось экспортировать все {count} книг",
+      "exportPartial": "Экспортировано {success} книг, ошибок: {failed}",
+      "chooseDirFailed": "Не удалось выбрать папку экспорта"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "светлая",
+    "dark": "тёмная",
+    "cupcake": "капкейк",
+    "bumblebee": "шмель",
+    "emerald": "изумруд",
+    "corporate": "корпоративная",
+    "synthwave": "синтвейв",
+    "retro": "ретро",
+    "cyberpunk": "киберпанк",
+    "valentine": "день святого валентина",
+    "halloween": "хэллоуин",
+    "garden": "сад",
+    "forest": "лес",
+    "aqua": "аква",
+    "lofi": "лоу-фай",
+    "pastel": "пастель",
+    "fantasy": "фэнтези",
+    "wireframe": "каркас",
+    "black": "чёрный",
+    "luxury": "роскошь",
+    "dracula": "дракула",
+    "cmyk": "cmyk",
+    "autumn": "осень",
+    "business": "бизнес",
+    "acid": "кислотный",
+    "lemonade": "лимонад",
+    "night": "ночь",
+    "coffee": "кофе",
+    "winter": "зима",
+    "dim": "приглушённый",
+    "nord": "nord",
+    "sunset": "закат",
+    "caramellatte": "карамельный латте",
+    "abyss": "бездна",
+    "silk": "шёлк"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "label": "Italiano",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "Copertina non disponibile",
+      "untitled": "Senza titolo"
+    },
+    "user": {
+      "label": "Utente",
+      "all": "Tutti gli utenti"
+    },
+    "sort": {
+      "strategy": "Ordina per",
+      "order": "Ordine",
+      "asc": "Crescente",
+      "desc": "Decrescente"
+    },
+    "selection": {
+      "enter": "Selezione multipla",
+      "exit": "Annulla selezione",
+      "count": "{count} selezionati",
+      "apply": "Applica",
+      "selectAll": "Seleziona tutto",
+      "deselectAll": "Deseleziona tutto"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "Titolo",
+      "author": "Autore",
+      "recent": "Scaricati di recente"
+    },
+    "action": {
+      "export": "Esporta"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "Impossibile aggiornare la libreria"
+    },
+    "book": {
+      "opening": "Apertura del libro...",
+      "opened": "Aperto: {title}",
+      "openFailed": "Impossibile aprire: {title}"
+    },
+    "folder": {
+      "opened": "Cartella aperta",
+      "openFailed": "Impossibile aprire la cartella"
+    },
+    "export": {
+      "exporting": "Esportazione...",
+      "exported": "{title} esportato",
+      "exportFailed": "Impossibile esportare {title}",
+      "exportingMultiple": "Esportazione di {count} libri...",
+      "exportedAll": "{count} libri esportati con successo",
+      "exportFailedAll": "Impossibile esportare tutti i {count} libri",
+      "exportPartial": "{success} libri esportati, {failed} non riusciti",
+      "chooseDirFailed": "Impossibile scegliere la directory di esportazione"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "chiaro",
+    "dark": "scuro",
+    "cupcake": "cupcake",
+    "bumblebee": "calabrone",
+    "emerald": "smeraldo",
+    "corporate": "aziendale",
+    "synthwave": "synthwave",
+    "retro": "retrò",
+    "cyberpunk": "cyberpunk",
+    "valentine": "san valentino",
+    "halloween": "halloween",
+    "garden": "giardino",
+    "forest": "foresta",
+    "aqua": "aqua",
+    "lofi": "lo-fi",
+    "pastel": "pastello",
+    "fantasy": "fantasia",
+    "wireframe": "wireframe",
+    "black": "nero",
+    "luxury": "lusso",
+    "dracula": "dracula",
+    "cmyk": "cmyk",
+    "autumn": "autunno",
+    "business": "business",
+    "acid": "acido",
+    "lemonade": "limonata",
+    "night": "notte",
+    "coffee": "caffè",
+    "winter": "inverno",
+    "dim": "attenuato",
+    "nord": "nord",
+    "sunset": "tramonto",
+    "caramellatte": "latte al caramello",
+    "abyss": "abisso",
+    "silk": "seta"
+  }
+}

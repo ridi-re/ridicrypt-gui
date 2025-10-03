@@ -1,0 +1,101 @@
+{
+  "label": "中文（香港）",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "暫無封面",
+      "untitled": "未命名"
+    },
+    "user": {
+      "label": "用戶",
+      "all": "所有用戶"
+    },
+    "sort": {
+      "strategy": "排序方式",
+      "order": "順序",
+      "asc": "由小至大",
+      "desc": "由大至小"
+    },
+    "selection": {
+      "enter": "多選",
+      "exit": "取消選擇",
+      "count": "已選擇 {count} 項",
+      "apply": "應用",
+      "selectAll": "全選",
+      "deselectAll": "取消全選"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "標題",
+      "author": "作者",
+      "recent": "最近下載"
+    },
+    "action": {
+      "export": "匯出"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "重新整理書庫失敗"
+    },
+    "book": {
+      "opening": "正在開啟書籍...",
+      "opened": "{title} 已開啟",
+      "openFailed": "{title} 開啟失敗"
+    },
+    "folder": {
+      "opened": "資料夾已開啟",
+      "openFailed": "開啟資料夾失敗"
+    },
+    "export": {
+      "exporting": "正在匯出...",
+      "exported": "{title} 已匯出",
+      "exportFailed": "{title} 匯出失敗",
+      "exportingMultiple": "正在匯出 {count} 本書...",
+      "exportedAll": "{count} 本書已全部匯出",
+      "exportFailedAll": "{count} 本書全部匯出失敗",
+      "exportPartial": "{success} 本匯出成功 {failed} 本失敗",
+      "chooseDirFailed": "選擇匯出目錄失敗"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "淺色",
+    "dark": "深色",
+    "cupcake": "杯子蛋糕",
+    "bumblebee": "大黃蜂",
+    "emerald": "祖母綠",
+    "corporate": "企業",
+    "synthwave": "synthwave",
+    "retro": "復古",
+    "cyberpunk": "cyberpunk",
+    "valentine": "情人節",
+    "halloween": "萬聖節",
+    "garden": "花園",
+    "forest": "森林",
+    "aqua": "水色",
+    "lofi": "lo-fi",
+    "pastel": "粉彩",
+    "fantasy": "奇幻",
+    "wireframe": "線框",
+    "black": "黑色",
+    "luxury": "奢華",
+    "dracula": "德古拉",
+    "cmyk": "CMYK",
+    "autumn": "秋日",
+    "business": "商務",
+    "acid": "酸性",
+    "lemonade": "檸檬水",
+    "night": "夜間",
+    "coffee": "咖啡",
+    "winter": "冬日",
+    "dim": "微光",
+    "nord": "北歐",
+    "sunset": "日落",
+    "caramellatte": "焦糖拿鐵",
+    "abyss": "深淵",
+    "silk": "絲綢"
+  }
+}
+

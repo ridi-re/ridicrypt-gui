@@ -1,0 +1,100 @@
+{
+  "label": "ไทย",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "ไม่มีหน้าปก",
+      "untitled": "ไม่มีชื่อ"
+    },
+    "user": {
+      "label": "ผู้ใช้",
+      "all": "ผู้ใช้ทั้งหมด"
+    },
+    "sort": {
+      "strategy": "จัดเรียงตาม",
+      "order": "ลำดับ",
+      "asc": "น้อยไปมาก",
+      "desc": "มากไปน้อย"
+    },
+    "selection": {
+      "enter": "เลือกหลายรายการ",
+      "exit": "ยกเลิกการเลือก",
+      "count": "เลือกแล้ว {count} รายการ",
+      "apply": "นำไปใช้",
+      "selectAll": "เลือกทั้งหมด",
+      "deselectAll": "ยกเลิกเลือกทั้งหมด"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "ชื่อเรื่อง",
+      "author": "ผู้เขียน",
+      "recent": "ดาวน์โหลดล่าสุด"
+    },
+    "action": {
+      "export": "ส่งออก"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "รีเฟรชไลบรารีไม่สำเร็จ"
+    },
+    "book": {
+      "opening": "กำลังเปิดหนังสือ...",
+      "opened": "เปิดแล้ว: {title}",
+      "openFailed": "เปิดไม่สำเร็จ: {title}"
+    },
+    "folder": {
+      "opened": "เปิดโฟลเดอร์แล้ว",
+      "openFailed": "เปิดโฟลเดอร์ไม่สำเร็จ"
+    },
+    "export": {
+      "exporting": "กำลังส่งออก...",
+      "exported": "ส่งออก {title} แล้ว",
+      "exportFailed": "ส่งออก {title} ไม่สำเร็จ",
+      "exportingMultiple": "กำลังส่งออก {count} เล่ม...",
+      "exportedAll": "ส่งออก {count} เล่มสำเร็จ",
+      "exportFailedAll": "ส่งออก {count} เล่มทั้งหมดไม่สำเร็จ",
+      "exportPartial": "ส่งออก {success} เล่ม, ล้มเหลว {failed} เล่ม",
+      "chooseDirFailed": "เลือกไดเรกทอรีส่งออกไม่สำเร็จ"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "สว่าง",
+    "dark": "มืด",
+    "cupcake": "คัพเค้ก",
+    "bumblebee": "ผึ้ง",
+    "emerald": "มรกต",
+    "corporate": "องค์กร",
+    "synthwave": "ซินธ์เวฟ",
+    "retro": "เรโทร",
+    "cyberpunk": "ไซเบอร์พังก์",
+    "valentine": "วาเลนไทน์",
+    "halloween": "ฮาโลวีน",
+    "garden": "สวน",
+    "forest": "ป่า",
+    "aqua": "อควา",
+    "lofi": "โลไฟ",
+    "pastel": "พาสเทล",
+    "fantasy": "แฟนตาซี",
+    "wireframe": "ไวร์เฟรม",
+    "black": "ดำ",
+    "luxury": "หรูหรา",
+    "dracula": "แดรกคูลา",
+    "cmyk": "cmyk",
+    "autumn": "ฤดูใบไม้ร่วง",
+    "business": "ธุรกิจ",
+    "acid": "กรด",
+    "lemonade": "เลมอนเนด",
+    "night": "กลางคืน",
+    "coffee": "กาแฟ",
+    "winter": "ฤดูหนาว",
+    "dim": "สลัว",
+    "nord": "nord",
+    "sunset": "พระอาทิตย์ตก",
+    "caramellatte": "คาราเมลลาเต้",
+    "abyss": "เหวลึก",
+    "silk": "ผ้าไหม"
+  }
+}

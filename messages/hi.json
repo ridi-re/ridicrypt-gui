@@ -1,0 +1,100 @@
+{
+  "label": "हिन्दी",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "कवर उपलब्ध नहीं है",
+      "untitled": "शीर्षक रहित"
+    },
+    "user": {
+      "label": "उपयोगकर्ता",
+      "all": "सभी उपयोगकर्ता"
+    },
+    "sort": {
+      "strategy": "क्रमबद्ध करें",
+      "order": "क्रम",
+      "asc": "आरोही",
+      "desc": "अवरोही"
+    },
+    "selection": {
+      "enter": "एकाधिक चयन",
+      "exit": "चयन रद्द करें",
+      "count": "{count} चुने गए",
+      "apply": "लागू करें",
+      "selectAll": "सभी चुनें",
+      "deselectAll": "सभी चयन हटाएं"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "शीर्षक",
+      "author": "लेखक",
+      "recent": "हाल ही में डाउनलोड"
+    },
+    "action": {
+      "export": "निर्यात"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "लाइब्रेरी ताज़ा करने में विफल"
+    },
+    "book": {
+      "opening": "पुस्तक खोल रहे हैं...",
+      "opened": "खोला गया: {title}",
+      "openFailed": "खोलने में विफल: {title}"
+    },
+    "folder": {
+      "opened": "फ़ोल्डर खुल गया",
+      "openFailed": "फ़ोल्डर खोलने में विफल"
+    },
+    "export": {
+      "exporting": "निर्यात हो रहा है...",
+      "exported": "{title} निर्यात हुआ",
+      "exportFailed": "{title} निर्यात करने में विफल",
+      "exportingMultiple": "{count} पुस्तकों का निर्यात हो रहा है...",
+      "exportedAll": "{count} पुस्तकें सफलतापूर्वक निर्यात",
+      "exportFailedAll": "सभी {count} पुस्तकों का निर्यात विफल",
+      "exportPartial": "{success} पुस्तकें निर्यात, {failed} विफल",
+      "chooseDirFailed": "निर्यात निर्देशिका चुनने में विफल"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "हल्का",
+    "dark": "गहरा",
+    "cupcake": "कपकेक",
+    "bumblebee": "भौंरा",
+    "emerald": "पन्ना",
+    "corporate": "कॉर्पोरेट",
+    "synthwave": "सिंथवेव",
+    "retro": "रेट्रो",
+    "cyberpunk": "साइबरपंक",
+    "valentine": "वेलेंटाइन",
+    "halloween": "हैलोवीन",
+    "garden": "उद्यान",
+    "forest": "वन",
+    "aqua": "एक्वा",
+    "lofi": "लो-फाई",
+    "pastel": "पेस्टल",
+    "fantasy": "फैंटेसी",
+    "wireframe": "वायरफ़्रेम",
+    "black": "काला",
+    "luxury": "लक्ज़री",
+    "dracula": "ड्रैकुला",
+    "cmyk": "cmyk",
+    "autumn": "पतझड़",
+    "business": "बिज़नेस",
+    "acid": "अम्लीय",
+    "lemonade": "नींबू पानी",
+    "night": "रात्रि",
+    "coffee": "कॉफ़ी",
+    "winter": "सर्दी",
+    "dim": "मंद",
+    "nord": "nord",
+    "sunset": "सूर्यास्त",
+    "caramellatte": "कैरेमल लाटे",
+    "abyss": "अथाह गहराई",
+    "silk": "रेशम"
+  }
+}

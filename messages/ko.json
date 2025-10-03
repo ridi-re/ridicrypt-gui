@@ -1,0 +1,100 @@
+{
+  "label": "한국어",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "표지를 사용할 수 없습니다",
+      "untitled": "제목 없음"
+    },
+    "user": {
+      "label": "사용자",
+      "all": "모든 사용자"
+    },
+    "sort": {
+      "strategy": "정렬 기준",
+      "order": "순서",
+      "asc": "오름차순",
+      "desc": "내림차순"
+    },
+    "selection": {
+      "enter": "다중 선택",
+      "exit": "선택 취소",
+      "count": "{count}개 선택됨",
+      "apply": "적용",
+      "selectAll": "모두 선택",
+      "deselectAll": "모두 선택 해제"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "제목",
+      "author": "저자",
+      "recent": "최근 다운로드"
+    },
+    "action": {
+      "export": "내보내기"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "라이브러리 새로고침 실패"
+    },
+    "book": {
+      "opening": "도서를 여는 중...",
+      "opened": "열림: {title}",
+      "openFailed": "열기 실패: {title}"
+    },
+    "folder": {
+      "opened": "폴더 열림",
+      "openFailed": "폴더 열기 실패"
+    },
+    "export": {
+      "exporting": "내보내는 중...",
+      "exported": "{title} 내보냈습니다",
+      "exportFailed": "{title} 내보내기 실패",
+      "exportingMultiple": "{count}권 내보내는 중...",
+      "exportedAll": "{count}권 내보내기 성공",
+      "exportFailedAll": "{count}권 모두 내보내기 실패",
+      "exportPartial": "{success}권 내보냈고 {failed}권 실패",
+      "chooseDirFailed": "내보낼 디렉터리 선택 실패"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "라이트",
+    "dark": "다크",
+    "cupcake": "컵케이크",
+    "bumblebee": "범블비",
+    "emerald": "에메랄드",
+    "corporate": "기업",
+    "synthwave": "신스웨이브",
+    "retro": "레트로",
+    "cyberpunk": "사이버펑크",
+    "valentine": "발렌타인",
+    "halloween": "할로윈",
+    "garden": "가든",
+    "forest": "숲",
+    "aqua": "아쿠아",
+    "lofi": "로파이",
+    "pastel": "파스텔",
+    "fantasy": "판타지",
+    "wireframe": "와이어프레임",
+    "black": "블랙",
+    "luxury": "럭셔리",
+    "dracula": "드라큘라",
+    "cmyk": "cmyk",
+    "autumn": "가을",
+    "business": "비즈니스",
+    "acid": "애시드",
+    "lemonade": "레모네이드",
+    "night": "나이트",
+    "coffee": "커피",
+    "winter": "겨울",
+    "dim": "딤",
+    "nord": "nord",
+    "sunset": "선셋",
+    "caramellatte": "카라멜라떼",
+    "abyss": "어비스",
+    "silk": "실크"
+  }
+}

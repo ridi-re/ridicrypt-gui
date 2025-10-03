@@ -1,0 +1,100 @@
+{
+  "label": "Tiếng Việt",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "Không có bìa",
+      "untitled": "Không có tiêu đề"
+    },
+    "user": {
+      "label": "Người dùng",
+      "all": "Tất cả người dùng"
+    },
+    "sort": {
+      "strategy": "Sắp xếp theo",
+      "order": "Thứ tự",
+      "asc": "Tăng dần",
+      "desc": "Giảm dần"
+    },
+    "selection": {
+      "enter": "Chọn nhiều",
+      "exit": "Hủy chọn",
+      "count": "Đã chọn {count}",
+      "apply": "Áp dụng",
+      "selectAll": "Chọn tất cả",
+      "deselectAll": "Bỏ chọn tất cả"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "Tiêu đề",
+      "author": "Tác giả",
+      "recent": "Tải xuống gần đây"
+    },
+    "action": {
+      "export": "Xuất"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "Làm mới thư viện thất bại"
+    },
+    "book": {
+      "opening": "Đang mở sách...",
+      "opened": "Đã mở: {title}",
+      "openFailed": "Mở thất bại: {title}"
+    },
+    "folder": {
+      "opened": "Đã mở thư mục",
+      "openFailed": "Mở thư mục thất bại"
+    },
+    "export": {
+      "exporting": "Đang xuất...",
+      "exported": "Đã xuất {title}",
+      "exportFailed": "Xuất {title} thất bại",
+      "exportingMultiple": "Đang xuất {count} sách...",
+      "exportedAll": "Xuất thành công {count} sách",
+      "exportFailedAll": "Xuất không thành công toàn bộ {count} sách",
+      "exportPartial": "Đã xuất {success} sách, {failed} thất bại",
+      "chooseDirFailed": "Chọn thư mục xuất thất bại"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "sáng",
+    "dark": "tối",
+    "cupcake": "bánh cupcake",
+    "bumblebee": "ong nghệ",
+    "emerald": "ngọc lục bảo",
+    "corporate": "doanh nghiệp",
+    "synthwave": "synthwave",
+    "retro": "retro",
+    "cyberpunk": "cyberpunk",
+    "valentine": "valentine",
+    "halloween": "halloween",
+    "garden": "vườn",
+    "forest": "rừng",
+    "aqua": "aqua",
+    "lofi": "lo‑fi",
+    "pastel": "pastel",
+    "fantasy": "giả tưởng",
+    "wireframe": "khung dây",
+    "black": "đen",
+    "luxury": "sang trọng",
+    "dracula": "dracula",
+    "cmyk": "cmyk",
+    "autumn": "mùa thu",
+    "business": "kinh doanh",
+    "acid": "axit",
+    "lemonade": "nước chanh",
+    "night": "ban đêm",
+    "coffee": "cà phê",
+    "winter": "mùa đông",
+    "dim": "mờ",
+    "nord": "nord",
+    "sunset": "hoàng hôn",
+    "caramellatte": "latte caramel",
+    "abyss": "vực thẳm",
+    "silk": "lụa"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "label": "ਪੰਜਾਬੀ",
+  "title": "Ridicrypt GUI",
+  "library": {
+    "book": {
+      "noCover": "ਕਵਰ ਉਪਲਬਧ ਨਹੀਂ",
+      "untitled": "ਬਿਨਾ ਸਿਰਲੇਖ"
+    },
+    "user": {
+      "label": "ਉਪਭੋਗਤਾ",
+      "all": "ਸਾਰੇ ਉਪਭੋਗਤਾ"
+    },
+    "sort": {
+      "strategy": "ਤਰਤੀਬ ਅਨੁਸਾਰ",
+      "order": "ਕ੍ਰਮ",
+      "asc": "ਵੱਧਦੇ ਕ੍ਰਮ",
+      "desc": "ਘਟਦੇ ਕ੍ਰਮ"
+    },
+    "selection": {
+      "enter": "ਬਹੁ-ਚੋਣ",
+      "exit": "ਚੋਣ ਰੱਦ ਕਰੋ",
+      "count": "{count} ਚੁਣੇ ਗਏ",
+      "apply": "ਲਾਗੂ ਕਰੋ",
+      "selectAll": "ਸਭ ਚੁਣੋ",
+      "deselectAll": "ਸਭ ਦੀ ਚੋਣ ਰੱਦ ਕਰੋ"
+    }
+  },
+  "custom": {
+    "library": {
+      "title": "ਸਿਰਲੇਖ",
+      "author": "ਲੇਖਕ",
+      "recent": "ਤਾਜ਼ਾ ਡਾਊਨਲੋਡ"
+    },
+    "action": {
+      "export": "ਨਿਰਯਾਤ"
+    }
+  },
+  "notification": {
+    "library": {
+      "refreshFailed": "ਲਾਇਬ੍ਰੇਰੀ ਰਿਫਰੈਸ਼ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"
+    },
+    "book": {
+      "opening": "ਕਿਤਾਬ ਖੋਲ੍ਹ ਰਹੇ ਹਨ...",
+      "opened": "ਖੁੱਲ੍ਹੀ: {title}",
+      "openFailed": "ਖੋਲ੍ਹਣ ਵਿੱਚ ਅਸਫਲ: {title}"
+    },
+    "folder": {
+      "opened": "ਫੋਲਡਰ ਖੁੱਲ੍ਹਿਆ",
+      "openFailed": "ਫੋਲਡਰ ਖੋਲ੍ਹਣ ਵਿੱਚ ਅਸਫਲ"
+    },
+    "export": {
+      "exporting": "ਐਕਸਪੋਰਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+      "exported": "{title} ਐਕਸਪੋਰਟ ਹੋਈ",
+      "exportFailed": "{title} ਐਕਸਪੋਰਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+      "exportingMultiple": "{count} ਕਿਤਾਬਾਂ ਐਕਸਪੋਰਟ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ...",
+      "exportedAll": "{count} ਕਿਤਾਬਾਂ ਸਫਲਤਾਪੂਰਵਕ ਐਕਸਪੋਰਟ",
+      "exportFailedAll": "ਸਭ {count} ਕਿਤਾਬਾਂ ਐਕਸਪੋਰਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+      "exportPartial": "{success} ਕਿਤਾਬਾਂ ਐਕਸਪੋਰਟ, {failed} ਅਸਫਲ",
+      "chooseDirFailed": "ਐਕਸਪੋਰਟ ਡਾਇਰੈਕਟਰੀ ਚੁਣਨ ਵਿੱਚ ਅਸਫਲ"
+    }
+  },
+  "theme": {
+    "ridi": "ridi",
+    "light": "ਹਲਕਾ",
+    "dark": "ਗੂੜ੍ਹਾ",
+    "cupcake": "ਕਪਕੇਕ",
+    "bumblebee": "ਭੌਰਾ",
+    "emerald": "ਪੰਨਾ",
+    "corporate": "ਕਾਰਪੋਰੇਟ",
+    "synthwave": "ਸਿੰਥਵੇਵ",
+    "retro": "ਰੇਟ੍ਰੋ",
+    "cyberpunk": "ਸਾਇਬਰਪੰਕ",
+    "valentine": "ਵੈਲੈਂਟਾਈਨ",
+    "halloween": "ਹੈਲੋਵੀਨ",
+    "garden": "ਬਗੀਚਾ",
+    "forest": "ਜੰਗਲ",
+    "aqua": "ਆਕਵਾ",
+    "lofi": "ਲੋ-ਫਾਈ",
+    "pastel": "ਪੈਸਟਲ",
+    "fantasy": "ਫੈਂਟਸੀ",
+    "wireframe": "ਵਾਇਰਫ੍ਰੇਮ",
+    "black": "ਕਾਲਾ",
+    "luxury": "ਲਗਜ਼ਰੀ",
+    "dracula": "ਡਰੈਕੂਲਾ",
+    "cmyk": "cmyk",
+    "autumn": "ਪਤਝੜ",
+    "business": "ਕਾਰੋਬਾਰ",
+    "acid": "ਅਮਲੀਅਤ",
+    "lemonade": "ਨੀਬੂ ਪਾਣੀ",
+    "night": "ਰਾਤ",
+    "coffee": "ਕੌਫੀ",
+    "winter": "ਸਰਦੀ",
+    "dim": "ਧੀਮਾ",
+    "nord": "nord",
+    "sunset": "ਸੂਰਜ ਅਸਤ",
+    "caramellatte": "ਕੈਰਾਮਲ ਲਾਟੇ",
+    "abyss": "ਅਤੱਲ ਖੱਡ",
+    "silk": "ਰੇਸ਼ਮ"
+  }
+}
