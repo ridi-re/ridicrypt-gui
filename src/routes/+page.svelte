@@ -167,14 +167,13 @@
         return `${normalizedBase}/${name}`;
     };
 
-    const defaultDecryptedName = (filename: string) => {
-        const index = filename.lastIndexOf(".");
-        if (index === -1) {
-            return `${filename}.decrypted`;
-        }
-        const stem = filename.slice(0, index);
-        const ext = filename.slice(index + 1);
-        return ext ? `${stem}.decrypted.${ext}` : `${stem}.decrypted`;
+    const defaultDecryptedName = (book: BookRecord) => {
+        const safeName = book.title
+            .replace(/[<>:"/\\|?*\x00-\x1f]/g, "_")
+            .trim();
+        const ext = book.storage.filename.split(".").pop() || book.format;
+
+        return ext ? `${safeName}.${ext}` : safeName;
     };
 
     const refreshLibrary = async () => {
@@ -308,7 +307,7 @@
     };
 
     const exportSingleBook = async (book: BookRecord) => {
-        const defaultFileName = defaultDecryptedName(book.storage.filename);
+        const defaultFileName = defaultDecryptedName(book);
         const defaultPath = joinPath(book.storage.basePath, defaultFileName);
         try {
             const filters = book.format
@@ -370,9 +369,7 @@
                     continue;
                 }
 
-                const decryptedName = defaultDecryptedName(
-                    book.storage.filename
-                );
+                const decryptedName = defaultDecryptedName(book);
                 const targetPath = joinPath(target, decryptedName);
 
                 try {

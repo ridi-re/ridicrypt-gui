@@ -240,34 +240,6 @@
     <div class="overflow-y-auto flex-1">
         {@render children?.()}
     </div>
-
-    <!-- test buttons -->
-    <div class="absolute bottom-4 left-4 flex gap-2 z-30">
-        <button
-            class="btn btn-sm btn-info"
-            onclick={() => notify("Info message", { type: "info" })}
-            >Info</button
-        >
-        <button
-            class="btn btn-sm btn-success"
-            onclick={() => notify("Success!", { type: "success" })}
-            >Success</button
-        >
-        <button
-            class="btn btn-sm btn-warning"
-            onclick={() =>
-                notify(
-                    "Warning: This is a longer message to test text wrapping behavior",
-                    { type: "warning" }
-                )}>Warning</button
-        >
-        <button
-            class="btn btn-sm btn-error"
-            onclick={() =>
-                notify("Error: Must close manually", { type: "error" })}
-            >Error</button
-        >
-    </div>
 </main>
 
 <style>
